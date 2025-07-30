@@ -1,0 +1,124 @@
+BODY{
+  background-color : #efefff;
+	background-image : url(image/background3.jpg);
+	background-repeat: repeat-x;
+  font-size : 10pt;
+  font-family: "Verdana","Meiryo", "メイリオ","游ゴシック", "Hiragino Kaku Gothic ProN", sans-serif;
+  color : #535365;
+
+  MARGIN: -3px 0px 0px 0px;
+
+  SCROLLBAR-FACE-COLOR:#a3a3b5;
+  SCROLLBAR-HIGHLIGHT-COLOR: #fafaff;
+  SCROLLBAR-SHADOW-COLOR: #fafaff;
+
+  SCROLLBAR-3DLIGHT-COLOR:#535365;
+  SCROLLBAR-ARROW-COLOR: #535365;
+
+  SCROLLBAR-TRACK-COLOR: #838395;
+
+  SCROLLBAR-DARKSHADOW-COLOR: #535365;
+
+}
+
+A:LINK,A:VISITED{color:#ff4444;text-decoration : underline;}
+A:HOVER,A:ACTIVE{color : #ddaaaa;text-decoration : underline;}
+
+A.red:LINK,A.red:VISITED{color:#a6385c;text-decoration : underline;}
+A.red:HOVER,A.red:ACTIVE{color : #d6688c;text-decoration : underline;}
+
+A.lred:LINK,A.lred:VISITED{color:#df689c;text-decoration : underline;}
+A.lred:HOVER,A.lred:ACTIVE{color : #f688ac;text-decoration : underline;}
+
+
+A.blue:LINK,A.blue:VISITED{color:#464896;text-decoration : underline;}
+A.blue:HOVER,A.blue:ACTIVE{color : #6668af;text-decoration : underline}
+
+A.siro:LINK,A.siro:VISITED{color:#bfbfdf;text-decoration : underline;}
+A.siro:HOVER,A.siro:ACTIVE{color : #efefff;text-decoration : underline;}
+
+A.BB:LINK,A.BB:VISITED{color:#bfdfbf;text-decoration : underline;}
+A.BB:HOVER,A.BB:ACTIVE{color : #efffef;text-decoration : underline;}
+
+A.g:LINK,A.g:VISITED{color:#38b68c;}
+A.g:HOVER,A.g:ACTIVE{color : #98f6cc;text-decoration : underline;}
+
+A{text-decoration : none;}
+
+/*--ﾃｰﾌﾞﾙ--*/
+table{font-size: 10pt;}
+.mainbg{background-color:#e4e4ff;}
+.black{background-color:#000000;}
+.gray{background-color:#535365;}
+.white{background-color:#fafaff;}
+.mwhite{background-color:#fafaff;}
+.veryusui{background-color:#f0f0fa;}
+.mgray{background-color:#636375;}
+.mmgray{background-color:#838395;}
+.fullwhite{background-color:#ffffff;}
+
+.back{background-color:#444455;}
+.koi_back{background-color:#333344;}
+
+.bluebg{background-color:#5444aa;}
+
+.bgimg_white{
+	background-color: #ffffff;
+	background-image : url(image/background.jpg);
+	background-repeat: repeat-x;
+}
+
+.bgimg_black{
+	background-color: #333344;
+	background-image : url(image/table_title.gif);
+	background-repeat: repeat-y;
+}
+
+.bgimg_menu{
+	background-color: #ffffff;
+	background-image : url(image/background_menu.jpg);
+	background-repeat: repeat-x;
+}
+
+
+/*---FONT---*/
+.fb{color:#000000;}
+.fw{color:#ffffff;}
+.fblue{color:#5555ee;}
+.fred{color:#ee5555;}
+.fmw{color:#d2d2dd;}
+.fg{color:#434355;}
+.fmg{color:#9393a5;}
+.flink{color:#737385;}
+.fmmg{color:#9393a5;}
+.ten{font-size:10pt;}
+.elev{font-size:12pt;}
+.plus{font-size:14pt;}
+
+/*--線色--*/
+.line{color:#c3c3d5;}
+.dline{color:#60609b;}
+
+DL.A{
+	height:408px;
+	padding:3px;
+	overflow: auto;
+	margin-bottom: 5px;
+	border:1px #aaaadd dashed;
+}
+
+
+DL.RECENT{
+	width:310px;
+	height:208px;
+	padding:3px;
+	overflow: auto;
+	margin-bottom: 5px;
+	border:1px #aaaadd dashed;
+	word-break: break-all;
+    white-space: pre-wrap;
+}
+
+.gradLightBlue{
+  background-color:#fafaff;
+}
