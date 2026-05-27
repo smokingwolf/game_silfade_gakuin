@@ -9,6 +9,9 @@
 
 # ●更新履歴と自動アップデートファイル
 
+
+1<>207<>https://smokingwolf.github.io/game_silfade_gakuin/update/zpatch207.zip<>2026/05/27\space[0]\n・【イベント】「武術運動部」のSランク戦の招待時、開催日の表記が\n　　　　合わなくなっていた問題を修正\n　　→　前回の修正漏れでした
+
 1<>206<>https://smokingwolf.github.io/game_silfade_gakuin/update/zpatch206.zip<>2026/05/17\space[0]\n・【イベント】「武術運動部」のSランク戦の招待日と試合日を修正\n　　→　公式試合と日程が重ならないようにするためです
 
 1<>205<><>2026/05/06\space[0]\n・【イベント】全角100文字以上の長い文字列が正常に\n　　　　処理できなくなっていた問題を修正(Game.exe更新)
