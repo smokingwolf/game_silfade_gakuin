@@ -10,6 +10,12 @@
 # ●更新履歴と自動アップデートファイル
 
 
+
+1<>209<><>2026/06/16\space[0]\n・【操作】タブレットPCのタッチ操作をクリックに\n　　　変換する機能を追加（Game.exe更新、製品版再DL+解凍が必要です）
+
+
+1<>208<>https://smokingwolf.github.io/game_silfade_gakuin/update/zpatch208.zip<>2026/05/28\space[0]\n・【ダンジョン】移動先の「動/」などが表示されていたバグを修正\n　　　(Game.exe更新なので本体DLし直し+再解凍が必要です)\n\n・【イベント】武術運動部の自由行動雑談イベントのメアリーの会話を修正
+
 1<>207<>https://smokingwolf.github.io/game_silfade_gakuin/update/zpatch207.zip<>2026/05/27\space[0]\n・【イベント】「武術運動部」のSランク戦の招待時、開催日の表記が\n　　　　合わなくなっていた問題を修正\n　　→　前回の修正漏れでした
 
 1<>206<>https://smokingwolf.github.io/game_silfade_gakuin/update/zpatch206.zip<>2026/05/17\space[0]\n・【イベント】「武術運動部」のSランク戦の招待日と試合日を修正\n　　→　公式試合と日程が重ならないようにするためです
